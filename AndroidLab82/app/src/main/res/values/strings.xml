@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLab8</string>
+    <string name="animalText">Animal</string>
+    <string name="textField">Your favorite animal:</string>
+    <string name="submitButton">Submit</string>
+    <string name="title_activity_2">Activity2</string>
+</resources>

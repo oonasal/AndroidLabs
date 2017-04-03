@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLab2</string>
+    <string name="intValue">5</string>
+    <string name="incrementValue">Increment</string>
+    <string name="decrementValue">Decrement</string>
+    <string name="resetValue">Reset</string>
+</resources>

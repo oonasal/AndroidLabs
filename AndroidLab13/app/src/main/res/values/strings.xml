@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLab13</string>
+    <string name="playersField">Players</string>
+    <string name="createButton">Create new player</string>
+    <string name="playerIdText">ID</string>
+    <string name="playerNameText">Name</string>
+</resources>
